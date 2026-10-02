@@ -7,6 +7,7 @@ Pages:
 - about.html — about the Hi home.info portal
 - magazine.html — Hi home magazine
 - events.html — Hi home events
+- franchise.html — Hi home franchise
 - designers.html — designers search
 - suppliers.html — suppliers search
 - apartments.html — apartments
